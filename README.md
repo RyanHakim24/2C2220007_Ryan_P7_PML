@@ -1,5 +1,6 @@
 # Tugas Pengantar Model Linear P7 Analisis Covariance dan Correlation
 * Ryan Fadhilah Faizal Hakim - 2C2220007
+
 Berikut merupakan pengerjaan tugas Ancova dan Correlation:
 
 ### Menghitung Manual:
